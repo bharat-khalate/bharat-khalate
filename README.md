@@ -1,7 +1,7 @@
 # 👨‍💻 Bharat Khalate | Software Development Engineer - I
 
 [📧 Email Me](mailto:bharatkhalate50@gmail.com) • 📞 +91-8010269748 • 🌍 Tuljapur, Maharashtra  
-🔗 [GitHub](https://github.com/bharat-khalate) | 🧾 [Portfolio (optional if you have one)] | 📄 [Resume (attach link if hosted)]
+🔗 [GitHub](https://github.com/bharat-khalate) | 
 
 ---
 
